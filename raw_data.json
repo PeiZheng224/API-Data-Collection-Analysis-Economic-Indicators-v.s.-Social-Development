@@ -1,0 +1,902 @@
+[
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2020,
+    "value": 21354105000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2019,
+    "value": 21539982000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2018,
+    "value": 20656516000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2017,
+    "value": 19612102000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2016,
+    "value": 18804913000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2015,
+    "value": 18295019000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2014,
+    "value": 17608138000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2013,
+    "value": 16880683000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2012,
+    "value": 16253970000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2011,
+    "value": 15599732000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2010,
+    "value": 15048971000000.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2020,
+    "value": 90.3447
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2019,
+    "value": 89.4303
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2018,
+    "value": 88.4989
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2017,
+    "value": 87.2749
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2016,
+    "value": 85.5444
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2015,
+    "value": 74.5542
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2014,
+    "value": 73.0
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2013,
+    "value": 71.4
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2012,
+    "value": 74.7
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2011,
+    "value": 69.7295
+  },
+  {
+    "country": "USA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2010,
+    "value": 71.69
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2020,
+    "value": 14996414166715.1
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2019,
+    "value": 14560167101283.4
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2018,
+    "value": 14147765772963.8
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2017,
+    "value": 12537559062282.9
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2016,
+    "value": 11456024084962.0
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2015,
+    "value": 11280814787468.9
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2014,
+    "value": 10674533168257.4
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2013,
+    "value": 9743124247267.24
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2012,
+    "value": 8673664713189.24
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2011,
+    "value": 7671757207851.29
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2010,
+    "value": 6192564874453.29
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "SE.ADT.LITR.ZS",
+    "year": 2020,
+    "value": 96.7399978637695
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "SE.ADT.LITR.ZS",
+    "year": 2010,
+    "value": 95.120002746582
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2020,
+    "value": 70.0528
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2019,
+    "value": 64.0809
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2018,
+    "value": 59.2
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2017,
+    "value": 54.3
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2016,
+    "value": 53.2
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2015,
+    "value": 50.3
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2014,
+    "value": 47.9
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2013,
+    "value": 45.8
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2012,
+    "value": 42.3001
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2011,
+    "value": 38.3
+  },
+  {
+    "country": "CHN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2010,
+    "value": 34.3
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2020,
+    "value": 5054068005376.28
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2019,
+    "value": 5117993853016.51
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2018,
+    "value": 5040880939324.86
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2017,
+    "value": 4930837369151.42
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2016,
+    "value": 5003677627544.24
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2015,
+    "value": 4444930651964.18
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2014,
+    "value": 4896994405353.29
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2013,
+    "value": 5212328181166.18
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2012,
+    "value": 6272362996105.03
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2011,
+    "value": 6233147172341.35
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2010,
+    "value": 5759071769013.11
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2020,
+    "value": 90.2195
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2019,
+    "value": 92.7304
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2018,
+    "value": 88.7464
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2017,
+    "value": 91.7265
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2016,
+    "value": 93.1827
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2015,
+    "value": 91.058
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2014,
+    "value": 89.1068
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2013,
+    "value": 88.2194
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2012,
+    "value": 79.4964
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2011,
+    "value": 79.0541
+  },
+  {
+    "country": "JPN",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2010,
+    "value": 78.21
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2020,
+    "value": 3940142541354.1
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2019,
+    "value": 3957208055215.68
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2018,
+    "value": 4052008447223.53
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2017,
+    "value": 3763092263752.95
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2016,
+    "value": 3537784107980.55
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2015,
+    "value": 3423568450957.03
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2014,
+    "value": 3965800686309.79
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2013,
+    "value": 3808086291482.36
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2012,
+    "value": 3597896500945.31
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2011,
+    "value": 3824828563521.41
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2010,
+    "value": 3468154343000.01
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2020,
+    "value": 89.8129
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2019,
+    "value": 88.1345
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2018,
+    "value": 87.0371
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2017,
+    "value": 84.3942
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2016,
+    "value": 84.1652
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2015,
+    "value": 87.5898
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2014,
+    "value": 86.1937
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2013,
+    "value": 84.17
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2012,
+    "value": 82.35
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2011,
+    "value": 81.27
+  },
+  {
+    "country": "DEU",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2010,
+    "value": 82.0
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2020,
+    "value": 2696778386607.65
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2019,
+    "value": 2851407164907.81
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2018,
+    "value": 2871340347581.79
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2017,
+    "value": 2680148052335.3
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2016,
+    "value": 2689106566899.61
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2015,
+    "value": 2927911140916.73
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2014,
+    "value": 3064708247921.43
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2013,
+    "value": 2784853502534.29
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2012,
+    "value": 2707089726614.64
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2011,
+    "value": 2663805834828.07
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2010,
+    "value": 2485482596184.71
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2020,
+    "value": 94.8182
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2019,
+    "value": 92.5166
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2018,
+    "value": 90.692
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2017,
+    "value": 90.4246
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2016,
+    "value": 94.7758
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2015,
+    "value": 92.0003
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2014,
+    "value": 91.6133
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2013,
+    "value": 89.8441
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2012,
+    "value": 87.48
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2011,
+    "value": 85.38
+  },
+  {
+    "country": "GBR",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2010,
+    "value": 85.0
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2020,
+    "value": 2647926055110.05
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2019,
+    "value": 2722793515171.76
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2018,
+    "value": 2781576320884.39
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2017,
+    "value": 2588868323334.71
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2016,
+    "value": 2470407619777.13
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2015,
+    "value": 2442483452642.5
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2014,
+    "value": 2861236112552.42
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2013,
+    "value": 2816077607875.26
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2012,
+    "value": 2683007095787.23
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2011,
+    "value": 2870408553990.28
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2010,
+    "value": 2646230027988.34
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2020,
+    "value": 84.7064
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2019,
+    "value": 83.3397
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2018,
+    "value": 82.0432
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2017,
+    "value": 80.5025
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2016,
+    "value": 79.2698
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2015,
+    "value": 78.006
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2014,
+    "value": 83.7511
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2013,
+    "value": 81.9198
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2012,
+    "value": 81.44
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2011,
+    "value": 77.82
+  },
+  {
+    "country": "FRA",
+    "indicator_code": "IT.NET.USER.ZS",
+    "year": 2010,
+    "value": 77.28
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2020,
+    "value": 2674851578587.27
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2019,
+    "value": 2835606256558.19
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2018,
+    "value": 2702929641648.74
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2017,
+    "value": 2651474262755.45
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2016,
+    "value": 2294796885663.16
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2015,
+    "value": 2103588360044.94
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2014,
+    "value": 2039126479154.52
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2013,
+    "value": 1856721507621.58
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2012,
+    "value": 1827637590410.41
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2011,
+    "value": 1823051829894.55
+  },
+  {
+    "country": "IND",
+    "indicator_code": "NY.GDP.MKTP.CD",
+    "year": 2010,
+    "value": 1675615519484.96
+  },
+  {
+    "country": "IND",
+    "indicator_code": "SE.ADT.LITR.ZS",
+    "year": 2020,
+    "value": 75.5437727049002
+  },
+  {
+    "country": "IND",
+    "indicator_code": "SE.ADT.LITR.ZS",
+    "year": 2019,
+    "value": 74.9084268267486
+  },
+  {
+    "country": "IND",
+    "indicator_code": "SE.ADT.LITR.ZS",
+    "year": 2018,
+    "value": 73.6975430256976
+  },
+  {
+    "country": "IND",
+    "indicator_code": "SE.ADT.LITR.ZS",
+    "year": 2012,
+    "value": 69.8350587234791
+  },
+  {
+    "country": "IND",
+    "indicator_code": "SE.ADT.LITR.ZS",
+    "year": 2011,
+    "value": 69.3000030517578
+  }
+]
