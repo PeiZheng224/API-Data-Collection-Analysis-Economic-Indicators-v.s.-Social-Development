@@ -1,5 +1,5 @@
-# HW3 – API Data Collection & Analysis  
-### *UC Berkeley COMPSS 211 – Fall 2025*  
+# API Data Collection & Analysis  
+### *UC Berkeley Adavanced Computing – Fall 2025*  
 **Author:** Pei Zheng  
 **Date:** October 2025  
 
